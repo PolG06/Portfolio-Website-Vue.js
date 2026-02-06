@@ -1,0 +1,11 @@
+{
+    "langueSelection":"Langue",
+    "navbar":{
+        "home": "Accueil",
+        "competences":"Mes compétences",
+        "projets":"Mes projets",
+        "contact":"Contact",
+        "account":"Mon Compte"
+    }
+    
+}

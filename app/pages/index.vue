@@ -1,0 +1,7 @@
+<template>
+  <MainHome />
+</template>
+
+<script></script>
+
+<style scoped></style>

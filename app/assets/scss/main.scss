@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply m-0 p-0;
+  }
+
+  *, *::before, *::after {
+    @apply box-border;
+  }
+}
+
+html, body {
+  @apply overflow-x-hidden m-0;
+  // background: linear-gradient(211deg, #2D2B54 20.67%, #070709 83.27%);
+  background: #0e0f18;
+}
+
+html, body { 
+  @apply overflow-visible m-0 p-0;
+ }
+#__nuxt, #__layout { overflow: visible; }

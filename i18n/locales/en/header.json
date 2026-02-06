@@ -1,0 +1,10 @@
+{
+    "langueSelection":"Language",
+    "navbar":{
+        "home": "Home",
+        "competences":"My competences",
+        "projets":"My projects",
+        "contact":"Contact",
+        "account":"My account"
+    }
+}
