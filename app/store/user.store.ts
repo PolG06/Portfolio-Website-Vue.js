@@ -18,10 +18,10 @@ export const useUserStore = defineStore('user', () => {
     ])
 
     const competences = ref([
-        { domain: "Developpement", sous_domains:["Front-End (HTML / CSS / JS)"," Programmation Orientée Objet (Python, Java, C#)", "Programmation Python (bibliothèque Pygame)", "Macro-VBA", "notions de GitHub", "Scripting Powershell"]},
-         { domain: "Systèmes & Réseaux", sous_domains:["Cisco Packet Tracer"," notions de cybersécurité offensive", "Windows client / serveur", "notions de Linux", "notions de Supervision (Syslog, Zabbix)", "Domotique"]},
-          { domain: "Bases de données", sous_domains:["Conception de bases de données SQL", "bases de données NoSQL"]},
-           { domain: "Autres", sous_domains:["Pack office"," Mathématiques"]}
+        { domain: "Developpement", sous_domains:["Front-End (HTML / CSS / JS)","Programmation Orientée Objet (Python, Java, C#)", "Programmation Python (bibliothèque Pygame)", "Macro-VBA", "Notions de GitHub", "Scripting Powershell"]},
+         { domain: "Systèmes & Réseaux", sous_domains:["Cisco Packet Tracer","Notions de cybersécurité offensive", "Windows client / serveur", "Notions de Linux", "Notions de Supervision (Syslog, Zabbix)", "Domotique"]},
+          { domain: "Bases de données", sous_domains:["Conception de bases de données SQL", "Bases de données NoSQL"]},
+           { domain: "Autres", sous_domains:["Pack office","Mathématiques"]}
     ])
 
     return {

@@ -3,7 +3,7 @@
     <MainCompetencesContentDomain
       v-for="(item, index) in userStore.competences"
       :key="index"
-      :link="item"
+      :links="item"
     />
   </div>
 </template>

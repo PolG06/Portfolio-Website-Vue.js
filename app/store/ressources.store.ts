@@ -1,3 +1,4 @@
+/*
 export const useRessourcesStore = defineStore('ressources',{
     //l'état initial de toutes les variables 
     state: () => ({

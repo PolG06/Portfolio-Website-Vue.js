@@ -1,5 +1,5 @@
 <template>
-  <h3>{{ link }}</h3>
+  <h3>-{{ link }}</h3>
 </template>
 
 <script setup>

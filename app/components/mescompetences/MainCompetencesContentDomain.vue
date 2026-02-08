@@ -17,4 +17,11 @@ const props = defineProps({
 });
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+h2 {
+  @apply text-white text-3xl font-bold;
+}
+div.sous-domains-list {
+  margin: 10px;
+}
+</style>
